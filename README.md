@@ -1,4 +1,4 @@
-##Chang's Portfolio
+##Chang Zhou's Portfolio
 
 Template created by [Start Bootstrap](http://startbootstrap.com/).
 
